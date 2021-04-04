@@ -5,3 +5,5 @@ This file was modified locally
 This line was edited in feature-2 branch
 
 Another modification feature-2
+
+Edit in f-2
