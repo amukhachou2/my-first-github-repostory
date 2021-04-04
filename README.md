@@ -4,3 +4,5 @@ Here is my first github repository.
 Privet.
 
 This line was modified manually during conflict resolution
+
+new line added locally
